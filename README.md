@@ -12,6 +12,9 @@ Link For Engram wallet - https://github.com/DEROFDN/Engram/releases/download/0.5
 Emails - hashhaven@proton.me
 
 
+Discord - https://discord.com/invite/MzVm5BtUEy
+
+
 
 
 Happy mining :)
